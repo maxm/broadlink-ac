@@ -6,7 +6,9 @@ Based on https://github.com/liaan/broadlink_ac_mqtt but without requiring MQTT.
 
 ## Installation
 
-Copy the repository into a `custom_components/broadlink_ac` folder in your config folder.
+Add as a custom repository to HACS with type Integration.
+
+Or copy the repository into a `custom_components/broadlink_ac` folder in your config folder.
 
 ## Configuration
 
